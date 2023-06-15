@@ -8,6 +8,11 @@ I decided to create my own scripts and to use a few method which I learned along
 Finally,  I created this manual to help you and your organization to have a detection layer which can alert and notify about potential risk ahead. It is crucial to detect malicious behavior as soon as possible to prevent penetration.
 You can use my scripts which I wrote at the manual and modify them as you wish, this is the base.
 
+This is version 2.0 :
+An updated version of my manual , I fixed a few critical bugs :
+- There was a conflict in ports between Mailoney honeypot and Postfix service - they both run on the same port 25 and it made Tpot system collapse every few minutes.
+- I added a few instructions on how to fix a "Network interface fail" error if it occur. 
+
 You can connect me using LinkedIn profile link at the cover of this project for any questions.
 
 For more project I created in other fields : OS(operating systems) , Data Structure , System Programming(Object oriented) , projects in Assembly, Python , C & C++ , visit:
